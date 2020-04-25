@@ -1,9 +1,16 @@
 body {
   background-image: url(images/bg.jpg);
 }
-h1 {
-  color: yellow;
+span {
+	color: cyan;
+}
+p {
+	color: cyan;
 }
 .orson {
 	border: 4mm ridge rgba(200, 200, 200, 1);
+}
+.title {
+	color: yellow;
+	font-size: 5em;
 }

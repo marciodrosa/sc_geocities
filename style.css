@@ -49,3 +49,6 @@ td p {
 	color: magenta;
 	font-size: 5em;
 }
+.platform {
+	color: rgb(0, 255, 0);
+}

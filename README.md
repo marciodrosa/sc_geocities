@@ -1,0 +1,1 @@
+Uma brincadeira com o formato de sites antigos.

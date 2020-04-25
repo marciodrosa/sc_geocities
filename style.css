@@ -1,6 +1,9 @@
 body {
   background-image: url(images/bg.jpg);
 }
-p {
+h1 {
   color: yellow;
+}
+.orson {
+	border: 4mm ridge rgba(200, 200, 200, 1);
 }

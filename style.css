@@ -4,7 +4,7 @@ body {
 span {
 	color: cyan;
 }
-p {
+p, h6, h5, h4, h3 {
 	color: cyan;
 }
 td {
@@ -44,4 +44,8 @@ td p {
 	font-size: 1.5em;
 	color: white;
 	background-color: red;
+}
+.extra {
+	color: magenta;
+	font-size: 5em;
 }

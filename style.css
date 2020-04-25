@@ -19,9 +19,19 @@ table {
 	border-color: white;
 	border-width: 1px;
 	border-style: outset;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+td img {
+	margin-top: 10px;
+	margin-bottom: 10px;
 }
 .orson {
-	border: 4mm ridge rgba(200, 200, 200, 1);
+	border-color: rgba(200, 200, 200, 1);
+	border-width: 10px;
+	border-style: outset;
+	margin-top: 50px;
+	margin-bottom: 10px;
 }
 .title {
 	color: yellow;

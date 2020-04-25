@@ -7,6 +7,19 @@ span {
 p {
 	color: cyan;
 }
+td {
+	border-color: white;
+	border-width: 1px;
+	border-style: inset;
+}
+table {
+	border-spacing: 0px;
+	text-align: center;
+	width: 100%;
+	border-color: white;
+	border-width: 1px;
+	border-style: outset;
+}
 .orson {
 	border: 4mm ridge rgba(200, 200, 200, 1);
 }
